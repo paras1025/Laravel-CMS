@@ -1,0 +1,5 @@
+trix-editor: to style the input text (bold, italic, ul, ol)
+flatpickr: date picker
+select2: for multiple options (tags)
+disqus: for comments - did not implement this
+addThis: for sharing icons - business thing - fb, twitter, pinterest, etc. Make a tool and activate it on the website
